@@ -1,4 +1,4 @@
-<h2 align='center'>Hi there , I'm Ujjwal 👋🏻</h2><br>
+<h1 align='center'>Hi there , I'm Ujjwal 👋🏻</h1><br>
 
 <a target="_blank">
   <img align="right" height="200" width="300" src="https://github.com/UjjwalSk/UjjwalSk/blob/main/icons/code.svg">
