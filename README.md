@@ -11,8 +11,8 @@
 - 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: <span>[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ujjwal-7a3ba31ba/)   [![Connect on Gmail](https://img.shields.io/badge/--Gmail?label=Gmail&logo=Gmail&style=social)](mailto:ujsk07@gmail.com)</span>
 
 <br/>
-<a href="#">
-    &emsp;&emsp;<img src="https://komarev.com/ghpvc/?username=UjjwalSk&color=blueviolet">
+&emsp;&emsp;<a href="#">
+    <img src="https://komarev.com/ghpvc/?username=UjjwalSk&color=blueviolet">
 </a>
 
 <br/>
