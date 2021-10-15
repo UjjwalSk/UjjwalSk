@@ -6,7 +6,7 @@
 
 - 🔭 𝙸'𝚖 𝚒𝚗 𝟸𝚗𝚍 𝚢𝚎𝚊𝚛 𝚘𝚏 𝙱.𝚃𝚎𝚌𝚑 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎.
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚎𝚟𝚎𝚛𝚢𝚝𝚑𝚒𝚗𝚐 😁
-- 💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 <𝚋>𝙿𝚢𝚝𝚑𝚘𝚗, 𝙲++, 𝙹𝚊𝚟𝚊, 𝚆𝚎𝚋 𝙳𝚎𝚟𝚕𝚘𝚙𝚖𝚎𝚗𝚝 , 𝙻𝚒𝚗𝚞𝚡</𝚋>
+- 💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 **𝙿𝚢𝚝𝚑𝚘𝚗, 𝙲++, 𝙹𝚊𝚟𝚊, 𝚆𝚎𝚋 𝙳𝚎𝚟𝚕𝚘𝚙𝚖𝚎𝚗𝚝 , 𝙻𝚒𝚗𝚞𝚡**
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : 𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜
 - 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: <span>[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ujjwal-7a3ba31ba/)   [![Connect on Gmail](https://img.shields.io/badge/--Gmail?label=Gmail&logo=Gmail&style=social)](mailto:ujsk07@gmail.com)</span>
 
@@ -25,11 +25,11 @@
 
 &emsp;&emsp;&emsp;&emsp;<span><img src='https://github-profile-trophy.vercel.app/?username=UjjwalSk&column=8&no-bg=true&no-frame=true&theme=flat'/></span>
 
-<p align="center">
+<!-- <p align="center">
   <a>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UjjwalSk&theme=dark"/>
   </a>
-</p>
+</p> -->
 
 <div align='center'>
 
