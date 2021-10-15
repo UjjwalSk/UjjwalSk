@@ -23,7 +23,7 @@
 <br/>
 <br/>
 
-&emsp;&emsp;&emsp;&emsp;<span><img src='https://github-profile-trophy.vercel.app/?username=UjjwalSk&column=8&no-bg=true&theme=juicyfresh'/></span>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipulhere" alt="vipulhere" /></a> </p>
 
 <!-- <p align="center">
   <a>
@@ -74,7 +74,7 @@
 
 <p align="center">
   <a href="https://github.com/UjjwalSk">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=UjjwalSk&show_icons=true&theme=algolia"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=UjjwalSk&show_icons=true&locale=en&theme=algolia"/>
   </a>
   <a href="https://github.com/UjjwalSk">
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalSk&langs_count=15&layout=compact&hide_border=true&theme=algolia" />
