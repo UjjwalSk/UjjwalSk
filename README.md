@@ -11,14 +11,19 @@
 - 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: <span>[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ujjwal-7a3ba31ba/)   [![Connect on Gmail](https://img.shields.io/badge/--Gmail?label=Gmail&logo=Gmail&style=social)](mailto:ujsk07@gmail.com)</span>
 
 <br/>
-<br/>
-<a href="https://github.com/UjjwalSk/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=UjjwalSk&color=blueviolet">
+<a href="#">
+    &emsp;&emsp;<img src="https://komarev.com/ghpvc/?username=UjjwalSk&color=blueviolet">
 </a>
 
 <br/>
+&emsp;&emsp;<a href='https://www.codechef.com/users/ujju07'><img src='https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white'/></a>
+<a href='https://www.hackerrank.com/CoDeZ_0'><img src='https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white'/></a>
+<a href='https://auth.geeksforgeeks.org/user/neofetch/practice/'><img src='https://img.shields.io/badge/-geeksforgeeks-080704?style=for-the-badge&logo=geeksforgeeks'/></a>
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=UjjwalSk&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/UjjwalSk)
+<br/>
+<br/>
+
+<img src='https://github-profile-trophy.vercel.app/?username=UjjwalSk&column=8&no-bg=true&no-frame=true&theme=flat'/>
 
 <p align="center">
   <a>
@@ -69,13 +74,15 @@
 
 <p align="center">
   <a href="https://github.com/UjjwalSk">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=UjjwalSk&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=UjjwalSk&show_icons=true&theme=algolia"/>
   </a>
   <a href="https://github.com/UjjwalSk">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalSk&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalSk&langs_count=15&layout=compact&hide_border=true&theme=algolia" />
   </a>
 </p>
 </details>
+
 <br>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=UjjwalSk&theme=react-dark&hide_border=true&area=true)
+
