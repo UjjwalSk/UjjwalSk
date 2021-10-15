@@ -74,9 +74,8 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?theme=algolia&username=UjjwalSk&show_icons=true&locale=en" alt="UjjwalSk" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalSk&langs_count=15&layout=compact&hide_border=true&theme=algolia" /></p>
-</details>
-
-<br/><br/>
+<br/>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=UjjwalSk&theme=react-dark&hide_border=true&area=true)
+</details>
 
