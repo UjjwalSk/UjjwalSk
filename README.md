@@ -72,14 +72,8 @@
 </summary>
 <br>
 
-<p align="center">
-  <a href="https://github.com/UjjwalSk">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=UjjwalSk&show_icons=true&locale=en&theme=algolia"/>
-  </a>
-  <a href="https://github.com/UjjwalSk">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalSk&langs_count=15&layout=compact&hide_border=true&theme=algolia" />
-  </a>
-</p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?theme=algolia&username=UjjwalSk&show_icons=true&locale=en" alt="UjjwalSk" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalSk&langs_count=15&layout=compact&hide_border=true&theme=algolia" /></p>
 </details>
 
 <br/><br/>
