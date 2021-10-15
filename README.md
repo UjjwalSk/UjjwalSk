@@ -23,7 +23,7 @@
 <br/>
 <br/>
 
-&emsp;&emsp;&emsp;&emsp;<span><img src='https://github-profile-trophy.vercel.app/?username=UjjwalSk&column=8&theme=darkhub'/></span>
+&emsp;&emsp;&emsp;&emsp;<span><img src='https://github-profile-trophy.vercel.app/?username=UjjwalSk&column=8&theme=juicyfresh'/></span>
 
 <!-- <p align="center">
   <a>
