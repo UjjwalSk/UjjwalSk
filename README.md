@@ -74,10 +74,10 @@
 
 <p align="center">
   <a href="https://github.com/UjjwalSk">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=UjjwalSk&show_icons=true&theme=algolia"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=UjjwalSk&show_icons=true&theme=algolia"/>
   </a>
   <a href="https://github.com/UjjwalSk">
-    <img align="right" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalSk&langs_count=15&layout=compact&hide_border=true&theme=algolia" />
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalSk&langs_count=15&layout=compact&hide_border=true&theme=algolia" />
   </a>
 </p>
 </details>
