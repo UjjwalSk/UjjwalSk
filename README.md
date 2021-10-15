@@ -12,13 +12,17 @@
 
 <br/>
 <br/>
+<a href="https://github.com/UjjwalSk/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=UjjwalSk&color=blueviolet">
+</a>
+
 <br/>
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=UjjwalSk&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/UjjwalSk)
 
 <p align="center">
   <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UjjwalSk&theme=dark&hide_border=true"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UjjwalSk&theme=dark"/>
   </a>
 </p>
 
