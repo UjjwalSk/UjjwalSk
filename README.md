@@ -4,7 +4,7 @@
   <img align="right" height="200" width="300" src="https://github.com/UjjwalSk/UjjwalSk/blob/main/icons/code.svg">
 </a>
 
-- 🔭 𝙸'𝚖 𝚒𝚗 𝟸𝚗𝚍 𝚢𝚎𝚊𝚛 𝚘𝚏 𝙱.𝚃𝚎𝚌𝚑 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎.
+- 🔭 𝙸'𝚖 𝟸𝚗𝚍 𝚢𝚎𝚊𝚛 BE CSE student.
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚎𝚟𝚎𝚛𝚢𝚝𝚑𝚒𝚗𝚐 😁
 - 💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 **𝙿𝚢𝚝𝚑𝚘𝚗, 𝙲++, 𝙹𝚊𝚟𝚊, 𝚆𝚎𝚋 𝙳𝚎𝚟𝚕𝚘𝚙𝚖𝚎𝚗𝚝 , 𝙻𝚒𝚗𝚞𝚡**
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : 𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜
