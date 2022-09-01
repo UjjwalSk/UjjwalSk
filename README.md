@@ -70,7 +70,8 @@
 </summary>
 <br>
 
-
+  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=UjjwalSk"/></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalSk&langs_count=15&layout=compact&hide_border=true&theme=algolia" /></p>
 <br/>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=UjjwalSk&theme=react-dark&hide_border=true&area=true)
