@@ -1,5 +1,7 @@
 ![banner](https://github.com/UjjwalSk/UjjwalSk/blob/main/src/banner.png?raw=true)
-
+<div align="right">
+ 
+ ![views](https://komarev.com/ghpvc/?username=UjjwalSk&color=blueviolet)</div>
 <h2>
 🙋🏻‍♂️ About Me
 </h2>
@@ -96,7 +98,7 @@ for (let i = 0; i < 10; i++) {
 ```
  </div>
 
-<h2>📈 Github Stats</h2>
+ <h2>📈 Github Stats</h2>
 
 <p >
  
