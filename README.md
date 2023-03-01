@@ -42,7 +42,7 @@
 
 #
 
-<a target="_blank"><img align="left" height="450" width="450" alt="𝙶𝙸𝙵" src="https://github.com/UjjwalSk/UjjwalSk/blob/main/github.gif?raw=true"></a>
+<a target="_blank"><img align="left" height="400" width="400" alt="𝙶𝙸𝙵" src="https://github.com/UjjwalSk/UjjwalSk/blob/main/github.gif?raw=true"></a>
 <br/>
 
 ### **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
@@ -86,9 +86,7 @@
 </div>
 
 <div>
- 
- 
- 
+
 <br/>🤖 Here's a fun coding challenge for you: Guess the output of this code snippet!<br/><br/>
 
 ```javascript
