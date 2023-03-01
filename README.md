@@ -9,8 +9,8 @@
 </h2>
 
 <div>
- <img align="right" alt="coding" width="450" src="https://github.com/UjjwalSk/UjjwalSk/blob/main/src/yoga.png?raw=true"/>
-<!--  <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/101383635/198191581-35c5935a-ac37-4ee0-af05-1ba14e08f026.gif"> -->
+<!--  <img align="right" alt="coding" width="400" src="https://github.com/UjjwalSk/UjjwalSk/blob/main/src/yoga.png?raw=true"/> -->
+ <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/101383635/198191581-35c5935a-ac37-4ee0-af05-1ba14e08f026.gif">
 </div>
 
 > #### A versatile full-stack developer, multi-language programmer, and creative coder with strong UI/UX skills and a talent for solving complex problems. 
