@@ -84,22 +84,7 @@
 #
 
 </div>
-
-<div>
-
-<br/>🤖 Here's a fun coding challenge for you: Guess the output of this code snippet!<br/><br/>
-
-```javascript
-let x = 0;
-
-for (let i = 0; i < 10; i++) {
-  setTimeout(() => {
-    console.log(`The value of x is ${x}`);
-  }, 1000);
-  x++;
-}
-```
- </div>
+<br/><br/><br/><br/>
 
  <h2>📈 Github Stats</h2>
 
