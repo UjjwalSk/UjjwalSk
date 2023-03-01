@@ -2,6 +2,8 @@
 <div align="right">
  
  ![views](https://komarev.com/ghpvc/?username=UjjwalSk&color=blueviolet)
+
+</div>
  
 <h2>
 🙋🏻‍♂️ About Me
