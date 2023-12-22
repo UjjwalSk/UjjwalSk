@@ -69,7 +69,8 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40" height="40"/></code>&nbsp;&nbsp;
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/graphql/graphql-plain.svg" alt="graphQL" width="40" height="40"/></code>&nbsp;&nbsp;
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" alt="git" width="40" height="40"/></code>&nbsp;&nbsp; 
- <code><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" alt="github" width="40" height="40"/></code>&nbsp;&nbsp; 
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" alt="github" width="40" height="40"/></code>&nbsp;&nbsp; 
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="github" width="40" height="40"/></code>&nbsp;&nbsp; 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code>&nbsp;&nbsp;
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/></code>&nbsp;&nbsp;
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></code>&nbsp;&nbsp;
