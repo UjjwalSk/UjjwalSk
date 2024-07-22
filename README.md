@@ -94,8 +94,8 @@
  <h2>📈 Github Stats</h2>
 
 <p >
- 
-![Ujjwal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=UjjwalSk&bg_color=090132&color=009dff&line=0287d9&point=ffffff&area=true&hide_border=true)
+
+[![Ujjwal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ujjwalsk&bg_color=000000&color=ffffff&line=ffffff&point=1e00ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div align='center'>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UjjwalSk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
  &nbsp;&nbsp;&nbsp;<img height="180em" src="https://streak-stats.demolab.com?user=UjjwalSk&theme=cobalt"/>
