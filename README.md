@@ -17,9 +17,9 @@
 <span style="font-size: 18px">
 <p >
 
+- 👨‍💻 Software Engineer I @<img src="https://www.fico.com/themes/custom/fico_general/assets/icons/fico-logo-blue.svg" alt="fico" width="40" height="40" style="margin-top:20px;"/>   
+  
 - 👨‍🎓 BE CSE, Chitkara University, IN
-
-- 👨‍💻 Currently working on **Cloud, Blockchain & Problem Solving**
 
 - 🔍 Exploring some open source projects to collaborate
 
